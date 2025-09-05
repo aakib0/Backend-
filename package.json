@@ -1,0 +1,14 @@
+{
+  "name": "backend-sep",
+  "version": "1.0.0",
+  "description": "Aakib javed\r 12:28 AM\r Day 1\r const express = require('express');",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
